@@ -22,7 +22,7 @@
  
  *[EMEF Irma Amelia Furia](https://www.escol.as/212055-irma-amelia-furia) - Morungaba - SP*.
  
- - ### Ensino médio
+ - ### Ensino Médio
 
  **2013-02** - **2020-12**
  
