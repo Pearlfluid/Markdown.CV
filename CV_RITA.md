@@ -33,15 +33,15 @@
  ## Habilidades
  
  
- * [Javascript](www.javascript.com)
+ * [Javascript](https://www.javascript.com)
  
- * [Python](www.python.org)
+ * [Python](https://www.python.org)
  
  * [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
- * [CorelDRAW](www.coreldraw.com)
+ * [CorelDRAW](https://www.coreldraw.com)
  
- * [HTML 5](html.spec.whatwg.org)
+ * [HTML 5](https://html.spec.whatwg.org)
  
 
  
