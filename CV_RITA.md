@@ -9,24 +9,26 @@
 ---
 ## Educação 
 
-- ### Curso Técnico - Desenvolvimento de sistemas ###
-
- **2022-02** - **Atualmente**
- 
- *[ETEC Rosa Perrone Scavone](http://rosaperrone.com.br/) - Itatiba - SP*.
-
-
  - ### Ensino Fundamental
 
  **2004-01** - **2013-12**
  
  *[EMEF Irma Amelia Furia](https://www.escol.as/212055-irma-amelia-furia) - Morungaba - SP*.
  
+ 
  - ### Ensino Médio
 
  **2013-02** - **2020-12**
  
  *[EE HONORIO HEINRICH BERNARD NACKE MONSENHOR](http://www.educacao.sp.gov.br/cgrh/escolas/honorio-heinrich-bernard-nacke-monsenhor/) - Morungaba - SP*.
+ 
+ 
+ - ### Curso Técnico - Desenvolvimento de sistemas ###
+
+ **2022-02** - **Atualmente**
+ 
+ *[ETEC Rosa Perrone Scavone](http://rosaperrone.com.br/) - Itatiba - SP*.
+
  
  ---
  
