@@ -13,7 +13,7 @@
 
  **2004-01** - **2013-12**
  
- *[EMEF Irma Amelia Furia](https://www.escol.as/212055-irma-amelia-furia) - Morungaba - SP*.
+ *[EMEF IRMA AMELIA FURIA](https://www.escol.as/212055-irma-amelia-furia) - Morungaba - SP*.
  
  
  - ### Ensino Médio
@@ -27,7 +27,7 @@
 
  **2022-02** - **Atualmente**
  
- *[ETEC Rosa Perrone Scavone](http://rosaperrone.com.br/) - Itatiba - SP*.
+ *[ETEC ROSA PERRONE SCAVONE](http://rosaperrone.com.br/) - Itatiba - SP*.
 
  
  ---
