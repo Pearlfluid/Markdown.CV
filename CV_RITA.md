@@ -18,7 +18,7 @@
  
  - ### Ensino Médio
 
- **2013-02** - **2020-12**
+ **2014-02** - **2020-12**
  
  *[EE HONORIO HEINRICH BERNARD NACKE MONSENHOR](http://www.educacao.sp.gov.br/cgrh/escolas/honorio-heinrich-bernard-nacke-monsenhor/) - Morungaba - SP*.
  
